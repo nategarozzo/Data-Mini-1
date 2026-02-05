@@ -98,17 +98,17 @@ This citation must be included at the end of your code notebook.
 
 ## About This Event
 Data Mini #1 was organized by Duke's Statistical Science Majors Union - Competitions and Opportunities Committee. Contributing members of the committee and the SSMU executive team are listed below:
-Hanna Chee, ‘29
-Trisha Iyer, ‘28
-Shivansh Gupta, ‘28
-Hyunjin Lee, ‘27
-Susan Li, ‘29
-Phillip Lin, ‘27
-Liane Ma, ‘27
-Chelsea Nguyen, ‘28
-Cooper Ruffing, ‘27
-Derek Wang, ‘28
-Amy Xu, ‘27
-Allison Yang, ‘27
+* Hanna Chee, ‘29
+* Trisha Iyer, ‘28
+* Shivansh Gupta, ‘28
+* Hyunjin Lee, ‘27
+* Susan Li, ‘29
+* Phillip Lin, ‘27
+* Liane Ma, ‘27
+* Chelsea Nguyen, ‘28
+* Cooper Ruffing, ‘27
+* Derek Wang, ‘28
+* Amy Xu, ‘27
+* Allison Yang, ‘27
 And an additional thank-you goes out to the professors who helped advertise the event.
 
