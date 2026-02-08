@@ -78,8 +78,14 @@ We will give teams ~5 minutes after the 2-hour analysis period to upload their p
 ## Judging
 * Winners will be announced on Sunday, February 15
 * As stated earlier, you must come up with a question that your team will use to guide your statistical analysis. 
-* Presentations will be judged based on the story your analysis tells to answer the question of your team's choice (why you were interested in the question's topic and how you got to the results). This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors
 * A fair evaluation will be justified by multiple people deciding on competition winners.
+* The judging criteria is as follows:
+* 1) Communication: Clarity of presentation, logical structure, and ability to explain findings to a broad audience. - 20%
+* 2) Creativity & Insight: Depth of analysis, creativity in approach, and ability to identify meaningful patterns. - 40%
+* 3) Reproducibility: Well-organized code, clear documentation, and transparent workflows. - 5%
+* 4) Visualization & Design: Effective use of charts and visuals to support your conclusions. - 25%
+* 5) Technical Soundness: Appropriate use of statistical methods, reasonable assumptions, and valid interpretations. - 10%
+* This will be prioritized more than the experience level of the statistical methods your team members used. This will account for differing experience levels across competitors.
 ## Other Competitions from SSMU
 1) Duke’s StatSci Majors Union will be hosting Data Mini #2 from Feb. 28 - Mar. 1. This competition will be a little different: There will be a one-hour information session on Feb. 27th from 5:30-6:30 pm in Old Chem 001. From there, you and your team will have until Mar. 1 at 11:59 pm to submit materials and a video recording of findings to a Google Drive folder. Please contact Chelsea Nguyen (chelsea.nguyen@duke.edu) with any questions!
 2) In addition, ASA DataFest 2026 at Duke, organized by the Department of Statistical Science, will take place in Perkins Library on Duke University West Campus, Friday, March 20, through Sunday, March 22. Similar to Data Minis, DataFest is a data analysis competition where teams of up to five students attack a large, complex, and surprise data set over a weekend. Please reach out to Dr. Alexander Fisher (alexander.fisher@duke.edu) with any questions.
