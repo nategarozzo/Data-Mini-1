@@ -1,5 +1,6 @@
 ---
 title: "Data-Mini-1"
+author: "Connor Leathe, Nate Garozzo, Reed Schoenfeld, Will Katz"
 format: html
 editor: visual
 ---
@@ -11,7 +12,7 @@ library(tidymodels)
 library(janitor)
 ```
 
-```{r}
+```{r message=FALSE}
 #load data
 texas <- read_csv("texasdata.csv")
 ```
