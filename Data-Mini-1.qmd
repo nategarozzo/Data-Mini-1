@@ -16,3 +16,21 @@ library(janitor)
 #load data
 texas <- read_csv("texasdata.csv")
 ```
+
+```{r}
+#create variables
+texas <- texas |>
+  mutate(
+    race_match = if_else((student_frac > 0 & teacher_frac > 0) | (student_frac == teacher_frac), 1, 0)
+  )
+
+texas <- texas |>
+  mutate(
+    mismatch_level = case_when(
+      student_frac == 0 & teacher_frac == 0 ~ 0,
+      student_frac == 0 | teacher_frac == 0 ~ 1,
+      .default = abs(student_frac - teacher_frac) /
+              pmax(student_frac, teacher_frac)
+    )
+  )
+```
